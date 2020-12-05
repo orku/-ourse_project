@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DRV14 Pin=DD1-6
+Removed Pin From Net: NetName=DRV14 Pin=DD3-11
+Removed Pin From Net: NetName=DRV14 Pin=DD3-12
+Removed Pin From Net: NetName=DRV14 Pin=DD6-6
+Added Pin To Net: NetName=NetC2_1 Pin=XTAL1-1
+Change Net Name : Old Net Name=DRV14 New Net Name=NetC20_5
+Added Pin To Net: NetName=DRV14 Pin=DD3-12
+Added Pin To Net: NetName=DRV14 Pin=DD6-6
+Added Net: Name=DRV14
+Added Pin To Net: NetName=DRV24 Pin=DD1-6
+Added Pin To Net: NetName=DRV24 Pin=DD3-11
+Added Net: Name=DRV24

@@ -1,0 +1,15 @@
+Added Component: Designator=XP1(fpc_connector_10)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=POT1 Pin=XP1-1
+Added Pin To Net: NetName=POT2 Pin=XP1-2
+Added Pin To Net: NetName=NetDD2_8 Pin=XP1-3
+Added Pin To Net: NetName=NetDD2_10 Pin=XP1-4
+Added Pin To Net: NetName=NetDD7_8 Pin=XP1-5
+Added Pin To Net: NetName=NetDD7_10 Pin=XP1-6
+Added Pin To Net: NetName=+5B Pin=XP1-7
+Added Pin To Net: NetName=+5B Pin=XP1-8
+Added Pin To Net: NetName=NetC20_5 Pin=XP1-9
+Added Pin To Net: NetName=NetC20_5 Pin=XP1-10
+Added Pin To Net: NetName=NetC4_1 Pin=XTAL1-1
+Added Member To Class: ClassName=Ý3 Member=Component XP1 PIN_10

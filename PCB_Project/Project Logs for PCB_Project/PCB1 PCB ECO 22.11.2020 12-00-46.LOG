@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=+5B_VREF Pin=DD1-5
+Removed Pin From Net: NetName=ќбщ_DRV Pin=DD1-7
+Removed Pin From Net: NetName=GND Pin=DD1-9
+Removed Pin From Net: NetName=+27B Pin=DD1-11
+Removed Pin From Net: NetName=NetC4_1 Pin=DD1-12
+Removed Pin From Net: NetName=NetC3_2 Pin=DD1-13
+Removed Pin From Net: NetName=NetC3_1 Pin=DD1-14
+Removed Pin From Net: NetName=ќбщ_DRV Pin=DD1-15
+Removed Pin From Net: NetName=ќбщ_DRV Pin=DD1-16
+Removed Member From Class: ClassName=Ё3 Member=DD1
+Added Component: Designator=DD?(DRV8874_TSOP127P600-8N)
+Added Component: Designator=E?(PIN1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5B_VREF Pin=DD?-5
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD?-7
+Added Pin To Net: NetName=GND Pin=DD?-9
+Added Pin To Net: NetName=+27B Pin=DD?-11
+Added Pin To Net: NetName=NetC4_1 Pin=DD?-12
+Added Pin To Net: NetName=NetC3_2 Pin=DD?-13
+Added Pin To Net: NetName=NetC3_1 Pin=DD?-14
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD?-15
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD?-16
+Added Pin To Net: NetName=NetC1_1 Pin=XTAL1-1
+Added Pin To Net: NetName=NetDD10_11 Pin=DD10-11
+Added Pin To Net: NetName=NetDD10_11 Pin=DD?-4
+Added Net: Name=NetDD10_11
+Added Pin To Net: NetName=NetDD10_12 Pin=DD10-12
+Added Pin To Net: NetName=NetDD10_12 Pin=DD?-3
+Added Net: Name=NetDD10_12
+Added Pin To Net: NetName=NetDD10_13 Pin=DD10-13
+Added Pin To Net: NetName=NetDD10_13 Pin=DD?-2
+Added Net: Name=NetDD10_13
+Added Pin To Net: NetName=NetDD10_14 Pin=DD10-14
+Added Pin To Net: NetName=NetDD10_14 Pin=DD?-1
+Added Net: Name=NetDD10_14
+Added Pin To Net: NetName=NetDD?_6 Pin=DD?-6
+Added Pin To Net: NetName=NetDD?_6 Pin=R1-1
+Added Net: Name=NetDD?_6
+Added Pin To Net: NetName=NetDD?_8 Pin=DD?-8
+Added Net: Name=NetDD?_8
+Added Pin To Net: NetName=NetDD?_10 Pin=DD?-10
+Added Net: Name=NetDD?_10
+Added Member To Class: ClassName=Ё3 Member=Component DD? DRV8874
+Added Member To Class: ClassName=Ё3 Member=Component E? Antenna

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Îáù_RS Pin=DD9-8
+Removed Pin From Net: NetName=+5B_RS Pin=DD9-9
+Change Component Comment : Designator=DD10 Old Comment=TMR-1-2411SM New Comment=TDR-2-2411SM
+Added Pin To Net: NetName=+5B_RS Pin=DD9-8
+Added Pin To Net: NetName=Îáù_RS Pin=DD9-9
+Added Pin To Net: NetName=+5B_DRV Pin=DD11-8
+Added Pin To Net: NetName=Îáù_DRV Pin=DD11-9
+Added Pin To Net: NetName=NetC2_1 Pin=XTAL1-1
+Added Member To Class: ClassName=İ3 Member=Component C4 22ïêÔ
+Added Member To Class: ClassName=İ3 Member=Component C7 0.1ìêÔ

@@ -1,0 +1,364 @@
+Wire List
+
+<<< Component List >>>
+22ןךÔ                           C1             Capacitor_0805
+22ןךÔ                           C2             Capacitor_0805
+0.1לךÔ                          C3             Capacitor_0805
+0.1לךÔ                          C4             Capacitor_0805
+0.1לךÔ                          C5             Capacitor_0805
+0.1לךÔ                          C6             Capacitor_0805
+1לךÔ                            C7             
+0.1לךÔ                          C8             Capacitor_0805
+0.1לךÔ                          C9             Capacitor_0805
+0.1לךÔ                          C10            Capacitor_0805
+0.1לךÔ                          C11            Capacitor_0805
+1לךÔ                            C12            
+0.1לךÔ                          C13            Capacitor_0805
+1לךÔ                            C14            
+0.1לךÔ                          C15            Capacitor_0805
+10לךÔ                           C16            Capacitor_0805
+0.1לךÔ                          C17            Capacitor_0805
+10לךÔ                           C18            Capacitor_0805
+0.1לךÔ                          C19            Capacitor_0805
+10לךÔ                           C20            Capacitor_0805
+0.1לךÔ                          C21            Capacitor_0805
+10לךÔ                           C22            Capacitor_0805
+0.1לךÔ                          C23            Capacitor_0805
+10לךÔ                           C24            Capacitor_0805
+0.1לךÔ                          C25            Capacitor_0805
+0.1לךÔ                          C26            Capacitor_0805
+0.1לךÔ                          C27            Capacitor_0805
+0.1לךÔ                          C28            Capacitor_0805
+0.1לךÔ                          C29            Capacitor_0805
+0.1לךÔ                          C30            Capacitor_0805
+0.1לךÔ                          C31            Capacitor_0805
+DRV8874                         DD1            DRV8874_TSOP127P600-8N
+ATmega16-16PU                   DD2            ATMEGA16_DIP40
+ADuM1301                        DD3            ADUM_SOIC
+ADM485                          DD4            SOIC_N8 (REF198, ADM485)
+DRV8874                         DD5            DRV8874_TSOP127P600-8N
+REF198                          DD6            SOIC_N8 (REF198, ADM485)
+TMR-1-2411SM                    DD7            TMR1SM_SMD
+TMR-1-2411SM                    DD8            TMR1SM_SMD
+TMR-1-2411SM                    DD9            TMR1SM_SMD
+ADuM1401                        DD10           ADUM_SOIC
+ADuM1401                        DD11           ADUM_SOIC
+10לךÃם                          L1             
+120 Îל                          R2             resistor_0805
+120 Îל                          R3             resistor_0805
+DS1023-1x2                      XP2            
+DS1023-1x2                      XP3            
+FPC 10 pin                      XP?            fpc_connector
+912 ךÃצ                         XTAL1          Z_0503
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00001] +5B
+        C1         2       2              PASSIVE     22ןךÔ
+        C2         2       2              PASSIVE     22ןךÔ
+        C11        2       2              PASSIVE     0.1לךÔ
+        C13        1       1              PASSIVE     0.1לךÔ
+        C13        2       2              PASSIVE     0.1לךÔ
+        C14        4       4              PASSIVE     1לךÔ
+        C15        2       2              PASSIVE     0.1לךÔ
+        C16        1       1              PASSIVE     10לךÔ
+        C16        2       2              PASSIVE     10לךÔ
+        C17        1       1              PASSIVE     0.1לךÔ
+        C17        2       2              PASSIVE     0.1לךÔ
+        C22        1       1              PASSIVE     10לךÔ
+        C22        2       2              PASSIVE     10לךÔ
+        C23        1       1              PASSIVE     0.1לךÔ
+        C23        2       2              PASSIVE     0.1לךÔ
+        C26        2       2              PASSIVE     0.1לךÔ
+        C27        1       1              PASSIVE     0.1לךÔ
+        C27        2       2              PASSIVE     0.1לךÔ
+        C28        2       2              PASSIVE     0.1לךÔ
+        C29        1       1              PASSIVE     0.1לךÔ
+        C29        2       2              PASSIVE     0.1לךÔ
+        C30        2       2              PASSIVE     0.1לךÔ
+        C31        1       1              PASSIVE     0.1לךÔ
+        C31        2       2              PASSIVE     0.1לךÔ
+        DD2        10      VCC            PASSIVE     ATmega16-16PU
+        DD2        11      GND            PASSIVE     ATmega16-16PU
+        DD2        31      GND            PASSIVE     ATmega16-16PU
+        DD3        1       Vdd1           PASSIVE     ADuM1301
+        DD3        2       GND1           PASSIVE     ADuM1301
+        DD3        7       Ve1            PASSIVE     ADuM1301
+        DD3        8       GND1           PASSIVE     ADuM1301
+        DD3        9       GND2           PASSIVE     ADuM1301
+        DD3        15      GND2           PASSIVE     ADuM1301
+        DD6        2       Vs             PASSIVE     REF198
+        DD6        4       GND            PASSIVE     REF198
+        DD8        8       -Vo            PASSIVE     TMR-1-2411SM
+        DD8        9       +Vo            PASSIVE     TMR-1-2411SM
+        DD10       1       Vdd1           PASSIVE     ADuM1401
+        DD10       2       GND1           PASSIVE     ADuM1401
+        DD10       7       Ve1            PASSIVE     ADuM1401
+        DD10       8       GND1           PASSIVE     ADuM1401
+        DD10       9       GND2           PASSIVE     ADuM1401
+        DD11       1       Vdd1           PASSIVE     ADuM1401
+        DD11       2       GND1           PASSIVE     ADuM1401
+        DD11       7       Ve1            PASSIVE     ADuM1401
+        DD11       8       GND1           PASSIVE     ADuM1401
+        DD11       9       GND2           PASSIVE     ADuM1401
+        L1         2       2              PASSIVE     10לךÃם
+        XP?        7       7              PASSIVE     FPC 10 pin
+        XP?        8       8              PASSIVE     FPC 10 pin
+
+[00002] +5B_DRV
+        C24        2       2              PASSIVE     10לךÔ
+        C25        1       1              PASSIVE     0.1לךÔ
+        C26        1       1              PASSIVE     0.1לךÔ
+        C28        1       1              PASSIVE     0.1לךÔ
+        DD1        5       VREF           PASSIVE     DRV8874
+        DD5        5       VREF           PASSIVE     DRV8874
+        DD10       10      Ve2            PASSIVE     ADuM1401
+        DD10       15      GND2           PASSIVE     ADuM1401
+        DD10       16      Vdd2           PASSIVE     ADuM1401
+        DD11       10      Ve2            PASSIVE     ADuM1401
+        DD11       15      GND2           PASSIVE     ADuM1401
+        DD11       16      Vdd2           PASSIVE     ADuM1401
+
+[00003] +5B_RS
+        C5         2       2              PASSIVE     0.1לךÔ
+        C20        2       2              PASSIVE     10לךÔ
+        C21        1       1              PASSIVE     0.1לךÔ
+        C30        1       1              PASSIVE     0.1לךÔ
+        DD3        10      Ve2            PASSIVE     ADuM1301
+        DD3        16      Vdd2           PASSIVE     ADuM1301
+        DD4        8       Vcc            PASSIVE     ADM485
+        DD7        9       +Vo            PASSIVE     TMR-1-2411SM
+
+[00004] +27B
+        C4         2       2              PASSIVE     0.1לךÔ
+        C6         1       1              PASSIVE     0.1לךÔ
+        C7         5       5              PASSIVE     1לךÔ
+        C9         2       2              PASSIVE     0.1לךÔ
+        C10        1       1              PASSIVE     0.1לךÔ
+        C12        5       5              PASSIVE     1לךÔ
+        DD1        11      VM             PASSIVE     DRV8874
+        DD5        11      VM             PASSIVE     DRV8874
+
+[00005] BUS
+
+[00006] DRV11
+        DD2        25      PC3(TMS)       PASSIVE     ATmega16-16PU
+        DD11       3       Via            PASSIVE     ADuM1401
+
+[00007] DRV12
+        DD2        24      PC2(TCK)       PASSIVE     ATmega16-16PU
+        DD11       4       Vib            PASSIVE     ADuM1401
+
+[00008] DRV13
+        DD2        23      PC1(SDA)       PASSIVE     ATmega16-16PU
+        DD11       5       Vic            PASSIVE     ADuM1401
+
+[00009] DRV14
+        DD2        22      PC0(SCL)       PASSIVE     ATmega16-16PU
+        DD11       6       Vod            PASSIVE     ADuM1401
+
+[00010] DRV21
+        DD2        29      PC7(TOSK2)     PASSIVE     ATmega16-16PU
+        DD10       3       Via            PASSIVE     ADuM1401
+
+[00011] DRV22
+        DD2        28      PC6(TOSK1)     PASSIVE     ATmega16-16PU
+        DD10       4       Vib            PASSIVE     ADuM1401
+
+[00012] DRV23
+        DD2        27      PC5(TDI)       PASSIVE     ATmega16-16PU
+        DD10       5       Vic            PASSIVE     ADuM1401
+
+[00013] DRV24
+        DD2        26      PC4(TDO)       PASSIVE     ATmega16-16PU
+        DD10       6       Vod            PASSIVE     ADuM1401
+
+[00014] GND
+        C6         2       2              PASSIVE     0.1לךÔ
+        C7         4       4              PASSIVE     1לךÔ
+        C10        2       2              PASSIVE     0.1לךÔ
+        C12        4       4              PASSIVE     1לךÔ
+        DD1        9       PGND           PASSIVE     DRV8874
+        DD5        9       PGND           PASSIVE     DRV8874
+
+[00015] NetC1_1
+        C1         1       1              PASSIVE     22ןךÔ
+        DD2        12      XTAL1          PASSIVE     ATmega16-16PU
+        XTAL1      1       1              PASSIVE     912 ךÃצ
+
+[00016] NetC2_1
+        C2         1       1              PASSIVE     22ןךÔ
+        DD2        13      XTAL2          PASSIVE     ATmega16-16PU
+        XTAL1      1       1              PASSIVE     912 ךÃצ
+
+[00017] NetC3_1
+        C3         1       1              PASSIVE     0.1לךÔ
+        DD1        14      CPL            PASSIVE     DRV8874
+
+[00018] NetC3_2
+        C3         2       2              PASSIVE     0.1לךÔ
+        DD1        13      CPH            PASSIVE     DRV8874
+
+[00019] NetC4_1
+        C4         1       1              PASSIVE     0.1לךÔ
+        DD1        12      VCP            PASSIVE     DRV8874
+
+[00020] NetC8_1
+        C8         1       1              PASSIVE     0.1לךÔ
+        DD5        14      CPL            PASSIVE     DRV8874
+
+[00021] NetC8_2
+        C8         2       2              PASSIVE     0.1לךÔ
+        DD5        13      CPH            PASSIVE     DRV8874
+
+[00022] NetC9_1
+        C9         1       1              PASSIVE     0.1לךÔ
+        DD5        12      VCP            PASSIVE     DRV8874
+
+[00023] NetC11_1
+        C11        1       1              PASSIVE     0.1לךÔ
+        DD2        30      AVCC           PASSIVE     ATmega16-16PU
+        L1         1                      PASSIVE     10לךÃם
+
+[00024] NetC14_5
+        C14        5       5              PASSIVE     1לךÔ
+        C15        1       1              PASSIVE     0.1לךÔ
+        DD2        32      AREF           PASSIVE     ATmega16-16PU
+        DD6        6       Vo             PASSIVE     REF198
+        XP?        9       9              PASSIVE     FPC 10 pin
+        XP?        10      10             PASSIVE     FPC 10 pin
+
+[00025] NetC18_1
+        C18        1       1              PASSIVE     10לךÔ
+        C19        2       2              PASSIVE     0.1לךÔ
+        DD7        1       -Vi            PASSIVE     TMR-1-2411SM
+        DD8        1       -Vi            PASSIVE     TMR-1-2411SM
+        DD9        1       -Vi            PASSIVE     TMR-1-2411SM
+        XP3        2       2              PASSIVE     DS1023-1x2
+
+[00026] NetC18_2
+        C18        2       2              PASSIVE     10לךÔ
+        C19        1       1              PASSIVE     0.1לךÔ
+        DD7        14      +Vi            PASSIVE     TMR-1-2411SM
+        DD8        14      +Vi            PASSIVE     TMR-1-2411SM
+        DD9        14      +Vi            PASSIVE     TMR-1-2411SM
+        XP3        1       1              PASSIVE     DS1023-1x2
+
+[00027] NetDD1_1
+        DD1        1       EN/IN1         PASSIVE     DRV8874
+        DD10       14      Voa            PASSIVE     ADuM1401
+
+[00028] NetDD1_2
+        DD1        2       PH/IN2         PASSIVE     DRV8874
+        DD10       13      Vob            PASSIVE     ADuM1401
+
+[00029] NetDD1_3
+        DD1        3       nS\L\E\E\P\    PASSIVE     DRV8874
+        DD10       12      Voc            PASSIVE     ADuM1401
+
+[00030] NetDD1_4
+        DD1        4       nF\A\U\L\T\    PASSIVE     DRV8874
+        DD10       11      Vid            PASSIVE     ADuM1401
+
+[00031] NetDD1_8
+        DD1        8       OUT1           PASSIVE     DRV8874
+        XP?        3       3              PASSIVE     FPC 10 pin
+
+[00032] NetDD1_10
+        DD1        10      OUT2           PASSIVE     DRV8874
+        XP?        4       4              PASSIVE     FPC 10 pin
+
+[00042] NetDD2_14
+        DD2        14      PD0(RXD)       PASSIVE     ATmega16-16PU
+        DD3        5       Voc            PASSIVE     ADuM1301
+
+[00043] NetDD2_15
+        DD2        15      PD1(TXD)       PASSIVE     ATmega16-16PU
+        DD3        4       Vib            PASSIVE     ADuM1301
+
+[00044] NetDD2_16
+        DD2        16      PD2(INT0)      PASSIVE     ATmega16-16PU
+        DD3        3       Via            PASSIVE     ADuM1301
+
+[00058] NetDD3_12
+        DD3        12      Vic            PASSIVE     ADuM1301
+        DD4        1       RO             PASSIVE     ADM485
+
+[00059] NetDD3_13
+        DD3        13      Vob            PASSIVE     ADuM1301
+        DD4        4       DI             PASSIVE     ADM485
+
+[00060] NetDD3_14
+        DD3        14      Voa            PASSIVE     ADuM1301
+        DD4        2       R\E\           PASSIVE     ADM485
+        DD4        3       DE             PASSIVE     ADM485
+
+[00061] NetDD4_6
+        DD4        6       B              PASSIVE     ADM485
+        R2         1       1              PASSIVE     120 Îל
+
+[00062] NetDD4_7
+        DD4        7       A              PASSIVE     ADM485
+        R3         1       1              PASSIVE     120 Îל
+
+[00063] NetDD5_1
+        DD5        1       EN/IN1         PASSIVE     DRV8874
+        DD11       14      Voa            PASSIVE     ADuM1401
+
+[00064] NetDD5_2
+        DD5        2       PH/IN2         PASSIVE     DRV8874
+        DD11       13      Vob            PASSIVE     ADuM1401
+
+[00065] NetDD5_3
+        DD5        3       nS\L\E\E\P\    PASSIVE     DRV8874
+        DD11       12      Voc            PASSIVE     ADuM1401
+
+[00066] NetDD5_4
+        DD5        4       nF\A\U\L\T\    PASSIVE     DRV8874
+        DD11       11      Vid            PASSIVE     ADuM1401
+
+[00067] NetDD5_8
+        DD5        8       OUT1           PASSIVE     DRV8874
+        XP?        5       5              PASSIVE     FPC 10 pin
+
+[00068] NetDD5_10
+        DD5        10      OUT2           PASSIVE     DRV8874
+        XP?        6       6              PASSIVE     FPC 10 pin
+
+[00076] NetR2_0
+        R2         0       0              PASSIVE     120 Îל
+        XP2        1       1              PASSIVE     DS1023-1x2
+
+[00077] NetR3_0
+        R3         0       0              PASSIVE     120 Îל
+        XP2        2       2              PASSIVE     DS1023-1x2
+
+[00078] POT1
+        DD2        40      PA0(ADC0)      PASSIVE     ATmega16-16PU
+        XP?        1       1              PASSIVE     FPC 10 pin
+
+[00079] POT2
+        DD2        39      PA1(ADC1)      PASSIVE     ATmega16-16PU
+        XP?        2       2              PASSIVE     FPC 10 pin
+
+[00080] Îבש_DRV
+        C24        1       1              PASSIVE     10לךÔ
+        C25        2       2              PASSIVE     0.1לךÔ
+        DD1        6       IPROPI         PASSIVE     DRV8874
+        DD1        7       IMODE          PASSIVE     DRV8874
+        DD1        15      GND            PASSIVE     DRV8874
+        DD1        16      PMODE          PASSIVE     DRV8874
+        DD5        6       IPROPI         PASSIVE     DRV8874
+        DD5        7       IMODE          PASSIVE     DRV8874
+        DD5        15      GND            PASSIVE     DRV8874
+        DD5        16      PMODE          PASSIVE     DRV8874
+
+[00081] Îבש_RS
+        C5         1       1              PASSIVE     0.1לךÔ
+        C20        1       1              PASSIVE     10לךÔ
+        C21        2       2              PASSIVE     0.1לךÔ
+        DD4        5       GND            PASSIVE     ADM485
+        DD7        8       -Vo            PASSIVE     TMR-1-2411SM
+

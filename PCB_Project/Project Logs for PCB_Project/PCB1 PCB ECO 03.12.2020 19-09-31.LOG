@@ -1,0 +1,358 @@
+Added Component: Designator=C1(Capacitor_0805)
+Added Component: Designator=C2(Capacitor_0805)
+Added Component: Designator=C3(Capacitor_0805)
+Added Component: Designator=C4(Capacitor_0805)
+Added Component: Designator=C5(Capacitor_0805)
+Added Component: Designator=C6(Capacitor_0805)
+Added Component: Designator=C7(Capacitor_0805)
+Added Component: Designator=C8(CAPAE4643X46M)
+Added Component: Designator=C9(Capacitor_0805)
+Added Component: Designator=C10(Capacitor_0805)
+Added Component: Designator=C11(Capacitor_0805)
+Added Component: Designator=C12(Capacitor_0805)
+Added Component: Designator=C13(Capacitor_0805)
+Added Component: Designator=C14(Capacitor_0805)
+Added Component: Designator=C15(Capacitor_0805)
+Added Component: Designator=C16(Capacitor_0805)
+Added Component: Designator=C17(Capacitor_0805)
+Added Component: Designator=C18(CAPAE4643X46M)
+Added Component: Designator=C19(Capacitor_0805)
+Added Component: Designator=C20(CAPAE4643X46M)
+Added Component: Designator=C21(Capacitor_0805)
+Added Component: Designator=C22(CAPAE4643X46M)
+Added Component: Designator=C23(Capacitor_0805)
+Added Component: Designator=C24(CAPAE4643X46M)
+Added Component: Designator=C25(Capacitor_0805)
+Added Component: Designator=C26(CAPAE4643X46M)
+Added Component: Designator=C27(Capacitor_0805)
+Added Component: Designator=C28(CAPAE4643X46M)
+Added Component: Designator=C29(Capacitor_0805)
+Added Component: Designator=C30(Capacitor_0805)
+Added Component: Designator=C31(Capacitor_0805)
+Added Component: Designator=C32(CAPAE4643X46M)
+Added Component: Designator=C33(CAPAE4643X46M)
+Added Component: Designator=C34(Capacitor_0805)
+Added Component: Designator=C35(CAPAE4643X46M)
+Added Component: Designator=DD1(ADUM_SOIC)
+Added Component: Designator=DD2(DRV8874_TSOP127P600-8N)
+Added Component: Designator=DD3(ATMEGA16_DIP40)
+Added Component: Designator=DD4(ADUM_SOIC)
+Added Component: Designator=DD5(SOIC_N8 (REF198, ADM485))
+Added Component: Designator=DD6(ADUM_SOIC)
+Added Component: Designator=DD7(DRV8874_TSOP127P600-8N)
+Added Component: Designator=DD8(SOIC_N8 (REF198, ADM485))
+Added Component: Designator=DD9(TMR1SM_SMD)
+Added Component: Designator=DD10(TMR1SM_SMD)
+Added Component: Designator=DD11(TMR1SM_SMD)
+Added Component: Designator=L1(IND: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/LQM21FN100M70L/490-4029-1-ND/1016289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LQM21FN100M70L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeInductor"; Value = "Fixed inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10ÏÍ√Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Fixed inductor, 10ÏÍ√Ì, ±20%, 0805, 100mA, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R1(resistor_0805)
+Added Component: Designator=R2(resistor_0805)
+Added Component: Designator=XP1(fpc_connector_10)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP2(fpc_connector_2pin)
+Added Component: Designator=XP3(fpc_connector_2pin)
+Added Component: Designator=XTAL1(Z_0503)
+Added Pin To Net: NetName=+5B_DRV Pin=C1-1
+Added Pin To Net: NetName=+5B_DRV Pin=C10-1
+Added Pin To Net: NetName=+5B_DRV Pin=C31-1
+Added Pin To Net: NetName=+5B_DRV Pin=DD1-10
+Added Pin To Net: NetName=+5B_DRV Pin=DD1-16
+Added Pin To Net: NetName=+5B_DRV Pin=DD2-5
+Added Pin To Net: NetName=+5B_DRV Pin=DD6-10
+Added Pin To Net: NetName=+5B_DRV Pin=DD6-16
+Added Pin To Net: NetName=+5B_DRV Pin=DD7-5
+Added Net: Name=+5B_DRV
+Added Pin To Net: NetName=+5B_RS Pin=C9-2
+Added Pin To Net: NetName=+5B_RS Pin=C12-1
+Added Pin To Net: NetName=+5B_RS Pin=C27-1
+Added Pin To Net: NetName=+5B_RS Pin=DD4-10
+Added Pin To Net: NetName=+5B_RS Pin=DD4-16
+Added Pin To Net: NetName=+5B_RS Pin=DD5-8
+Added Pin To Net: NetName=+5B_RS Pin=DD9-9
+Added Net: Name=+5B_RS
+Added Pin To Net: NetName=+5B Pin=C1-2
+Added Pin To Net: NetName=+5B Pin=C2-2
+Added Pin To Net: NetName=+5B Pin=C3-2
+Added Pin To Net: NetName=+5B Pin=C4-2
+Added Pin To Net: NetName=+5B Pin=C10-2
+Added Pin To Net: NetName=+5B Pin=C11-1
+Added Pin To Net: NetName=+5B Pin=C11-2
+Added Pin To Net: NetName=+5B Pin=C12-2
+Added Pin To Net: NetName=+5B Pin=C13-1
+Added Pin To Net: NetName=+5B Pin=C13-2
+Added Pin To Net: NetName=+5B Pin=C17-2
+Added Pin To Net: NetName=+5B Pin=C19-1
+Added Pin To Net: NetName=+5B Pin=C19-2
+Added Pin To Net: NetName=+5B Pin=C21-2
+Added Pin To Net: NetName=+5B Pin=C23-1
+Added Pin To Net: NetName=+5B Pin=C23-2
+Added Pin To Net: NetName=+5B Pin=C29-1
+Added Pin To Net: NetName=+5B Pin=C29-2
+Added Pin To Net: NetName=+5B Pin=DD1-2
+Added Pin To Net: NetName=+5B Pin=DD1-7
+Added Pin To Net: NetName=+5B Pin=DD1-8
+Added Pin To Net: NetName=+5B Pin=DD1-9
+Added Pin To Net: NetName=+5B Pin=DD1-15
+Added Pin To Net: NetName=+5B Pin=DD3-10
+Added Pin To Net: NetName=+5B Pin=DD3-11
+Added Pin To Net: NetName=+5B Pin=DD3-31
+Added Pin To Net: NetName=+5B Pin=DD4-1
+Added Pin To Net: NetName=+5B Pin=DD4-2
+Added Pin To Net: NetName=+5B Pin=DD4-7
+Added Pin To Net: NetName=+5B Pin=DD4-8
+Added Pin To Net: NetName=+5B Pin=DD4-9
+Added Pin To Net: NetName=+5B Pin=DD4-15
+Added Pin To Net: NetName=+5B Pin=DD6-1
+Added Pin To Net: NetName=+5B Pin=DD6-2
+Added Pin To Net: NetName=+5B Pin=DD6-7
+Added Pin To Net: NetName=+5B Pin=DD6-8
+Added Pin To Net: NetName=+5B Pin=DD6-9
+Added Pin To Net: NetName=+5B Pin=DD6-15
+Added Pin To Net: NetName=+5B Pin=DD8-2
+Added Pin To Net: NetName=+5B Pin=DD8-4
+Added Pin To Net: NetName=+5B Pin=DD10-8
+Added Pin To Net: NetName=+5B Pin=DD10-9
+Added Pin To Net: NetName=+5B Pin=L1-1
+Added Pin To Net: NetName=+5B Pin=XP1-7
+Added Pin To Net: NetName=+5B Pin=XP1-8
+Added Net: Name=+5B
+Added Pin To Net: NetName=+27B Pin=C6-2
+Added Pin To Net: NetName=+27B Pin=C7-1
+Added Pin To Net: NetName=+27B Pin=C15-2
+Added Pin To Net: NetName=+27B Pin=C16-1
+Added Pin To Net: NetName=+27B Pin=DD2-11
+Added Pin To Net: NetName=+27B Pin=DD7-11
+Added Net: Name=+27B
+Added Pin To Net: NetName=DRV11 Pin=DD3-25
+Added Pin To Net: NetName=DRV11 Pin=DD6-3
+Added Net: Name=DRV11
+Added Pin To Net: NetName=DRV12 Pin=DD3-24
+Added Pin To Net: NetName=DRV12 Pin=DD6-4
+Added Net: Name=DRV12
+Added Pin To Net: NetName=DRV13 Pin=DD3-23
+Added Pin To Net: NetName=DRV13 Pin=DD6-5
+Added Net: Name=DRV13
+Added Pin To Net: NetName=DRV14 Pin=DD3-17
+Added Pin To Net: NetName=DRV14 Pin=DD6-6
+Added Net: Name=DRV14
+Added Pin To Net: NetName=DRV21 Pin=DD1-3
+Added Pin To Net: NetName=DRV21 Pin=DD3-29
+Added Net: Name=DRV21
+Added Pin To Net: NetName=DRV22 Pin=DD1-4
+Added Pin To Net: NetName=DRV22 Pin=DD3-28
+Added Net: Name=DRV22
+Added Pin To Net: NetName=DRV23 Pin=DD1-5
+Added Pin To Net: NetName=DRV23 Pin=DD3-27
+Added Net: Name=DRV23
+Added Pin To Net: NetName=DRV24 Pin=DD1-6
+Added Pin To Net: NetName=DRV24 Pin=DD3-16
+Added Net: Name=DRV24
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=DD2-9
+Added Pin To Net: NetName=GND Pin=DD7-9
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=DD3-12
+Added Pin To Net: NetName=NetC2_1 Pin=XTAL1-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=DD1-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=DD3-13
+Added Pin To Net: NetName=NetC4_1 Pin=XTAL1-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=DD2-14
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=DD2-13
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=DD2-12
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=DD7-14
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=DD7-13
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=DD7-12
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=DD3-30
+Added Pin To Net: NetName=NetC17_1 Pin=L1-2
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetC20_5 Pin=C21-1
+Added Pin To Net: NetName=NetC20_5 Pin=DD3-32
+Added Pin To Net: NetName=NetC20_5 Pin=DD8-6
+Added Pin To Net: NetName=NetC20_5 Pin=XP1-9
+Added Pin To Net: NetName=NetC20_5 Pin=XP1-10
+Added Net: Name=NetC20_5
+Added Pin To Net: NetName=NetC24_4 Pin=C25-2
+Added Pin To Net: NetName=NetC24_4 Pin=C30-2
+Added Pin To Net: NetName=NetC24_4 Pin=C34-2
+Added Pin To Net: NetName=NetC24_4 Pin=DD9-1
+Added Pin To Net: NetName=NetC24_4 Pin=DD10-1
+Added Pin To Net: NetName=NetC24_4 Pin=DD11-1
+Added Pin To Net: NetName=NetC24_4 Pin=XP3-2
+Added Net: Name=NetC24_4
+Added Pin To Net: NetName=NetC24_5 Pin=C25-1
+Added Pin To Net: NetName=NetC24_5 Pin=C30-1
+Added Pin To Net: NetName=NetC24_5 Pin=DD9-14
+Added Pin To Net: NetName=NetC24_5 Pin=DD10-14
+Added Pin To Net: NetName=NetC24_5 Pin=DD11-14
+Added Pin To Net: NetName=NetC24_5 Pin=XP3-1
+Added Net: Name=NetC24_5
+Added Pin To Net: NetName=NetDD1_11 Pin=DD1-11
+Added Pin To Net: NetName=NetDD1_11 Pin=DD2-4
+Added Net: Name=NetDD1_11
+Added Pin To Net: NetName=NetDD1_12 Pin=DD1-12
+Added Pin To Net: NetName=NetDD1_12 Pin=DD2-3
+Added Net: Name=NetDD1_12
+Added Pin To Net: NetName=NetDD1_13 Pin=DD1-13
+Added Pin To Net: NetName=NetDD1_13 Pin=DD2-2
+Added Net: Name=NetDD1_13
+Added Pin To Net: NetName=NetDD1_14 Pin=DD1-14
+Added Pin To Net: NetName=NetDD1_14 Pin=DD2-1
+Added Net: Name=NetDD1_14
+Added Pin To Net: NetName=NetDD2_8 Pin=DD2-8
+Added Pin To Net: NetName=NetDD2_8 Pin=XP1-3
+Added Net: Name=NetDD2_8
+Added Pin To Net: NetName=NetDD2_10 Pin=DD2-10
+Added Pin To Net: NetName=NetDD2_10 Pin=XP1-4
+Added Net: Name=NetDD2_10
+Added Pin To Net: NetName=NetDD3_14 Pin=DD3-14
+Added Pin To Net: NetName=NetDD3_14 Pin=DD4-5
+Added Net: Name=NetDD3_14
+Added Pin To Net: NetName=NetDD3_15 Pin=DD3-15
+Added Pin To Net: NetName=NetDD3_15 Pin=DD4-4
+Added Net: Name=NetDD3_15
+Added Pin To Net: NetName=NetDD3_18 Pin=DD3-18
+Added Pin To Net: NetName=NetDD3_18 Pin=DD4-3
+Added Net: Name=NetDD3_18
+Added Pin To Net: NetName=NetDD4_12 Pin=DD4-12
+Added Pin To Net: NetName=NetDD4_12 Pin=DD5-1
+Added Net: Name=NetDD4_12
+Added Pin To Net: NetName=NetDD4_13 Pin=DD4-13
+Added Pin To Net: NetName=NetDD4_13 Pin=DD5-4
+Added Net: Name=NetDD4_13
+Added Pin To Net: NetName=NetDD4_14 Pin=DD4-14
+Added Pin To Net: NetName=NetDD4_14 Pin=DD5-2
+Added Pin To Net: NetName=NetDD4_14 Pin=DD5-3
+Added Net: Name=NetDD4_14
+Added Pin To Net: NetName=NetDD5_6 Pin=DD5-6
+Added Pin To Net: NetName=NetDD5_6 Pin=R1-1
+Added Net: Name=NetDD5_6
+Added Pin To Net: NetName=NetDD5_7 Pin=DD5-7
+Added Pin To Net: NetName=NetDD5_7 Pin=R2-1
+Added Net: Name=NetDD5_7
+Added Pin To Net: NetName=NetDD6_11 Pin=DD6-11
+Added Pin To Net: NetName=NetDD6_11 Pin=DD7-4
+Added Net: Name=NetDD6_11
+Added Pin To Net: NetName=NetDD6_12 Pin=DD6-12
+Added Pin To Net: NetName=NetDD6_12 Pin=DD7-3
+Added Net: Name=NetDD6_12
+Added Pin To Net: NetName=NetDD6_13 Pin=DD6-13
+Added Pin To Net: NetName=NetDD6_13 Pin=DD7-2
+Added Net: Name=NetDD6_13
+Added Pin To Net: NetName=NetDD6_14 Pin=DD6-14
+Added Pin To Net: NetName=NetDD6_14 Pin=DD7-1
+Added Net: Name=NetDD6_14
+Added Pin To Net: NetName=NetDD7_8 Pin=DD7-8
+Added Pin To Net: NetName=NetDD7_8 Pin=XP1-5
+Added Net: Name=NetDD7_8
+Added Pin To Net: NetName=NetDD7_10 Pin=DD7-10
+Added Pin To Net: NetName=NetDD7_10 Pin=XP1-6
+Added Net: Name=NetDD7_10
+Added Pin To Net: NetName=NetR1_0 Pin=XP2-1
+Added Net: Name=NetR1_0
+Added Pin To Net: NetName=NetR2_0 Pin=XP2-2
+Added Net: Name=NetR2_0
+Added Pin To Net: NetName=POT1 Pin=DD3-40
+Added Pin To Net: NetName=POT1 Pin=XP1-1
+Added Net: Name=POT1
+Added Pin To Net: NetName=POT2 Pin=DD3-39
+Added Pin To Net: NetName=POT2 Pin=XP1-2
+Added Net: Name=POT2
+Added Pin To Net: NetName=Œ·˘_DRV Pin=C31-2
+Added Pin To Net: NetName=Œ·˘_DRV Pin=DD2-6
+Added Pin To Net: NetName=Œ·˘_DRV Pin=DD2-7
+Added Pin To Net: NetName=Œ·˘_DRV Pin=DD2-15
+Added Pin To Net: NetName=Œ·˘_DRV Pin=DD2-16
+Added Pin To Net: NetName=Œ·˘_DRV Pin=DD7-6
+Added Pin To Net: NetName=Œ·˘_DRV Pin=DD7-7
+Added Pin To Net: NetName=Œ·˘_DRV Pin=DD7-15
+Added Pin To Net: NetName=Œ·˘_DRV Pin=DD7-16
+Added Net: Name=Œ·˘_DRV
+Added Pin To Net: NetName=Œ·˘_RS Pin=C9-1
+Added Pin To Net: NetName=Œ·˘_RS Pin=C27-2
+Added Pin To Net: NetName=Œ·˘_RS Pin=DD5-5
+Added Pin To Net: NetName=Œ·˘_RS Pin=DD9-8
+Added Net: Name=Œ·˘_RS
+Added Member To Class: ClassName=›3 Member=Component C1 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C2 22ÔÍ‘
+Added Member To Class: ClassName=›3 Member=Component C3 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C4 22ÔÍ‘
+Added Member To Class: ClassName=›3 Member=Component C5 22ÔÍ‘
+Added Member To Class: ClassName=›3 Member=Component C6 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C7 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C8 https://www.compel.ru/wordpress/wp-content/uploads/2014/02/yageo_ELCAP.pdf
+Added Member To Class: ClassName=›3 Member=Component C9 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C10 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C11 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C12 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C13 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C14 0.022ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C15 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C16 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C17 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C18 https://www.compel.ru/wordpress/wp-content/uploads/2014/02/yageo_ELCAP.pdf
+Added Member To Class: ClassName=›3 Member=Component C19 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C20 https://www.compel.ru/wordpress/wp-content/uploads/2014/02/yageo_ELCAP.pdf
+Added Member To Class: ClassName=›3 Member=Component C21 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C22 https://www.compel.ru/wordpress/wp-content/uploads/2014/02/yageo_ELCAP.pdf
+Added Member To Class: ClassName=›3 Member=Component C23 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C24 https://www.compel.ru/wordpress/wp-content/uploads/2014/02/yageo_ELCAP.pdf
+Added Member To Class: ClassName=›3 Member=Component C25 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C26 https://www.compel.ru/wordpress/wp-content/uploads/2014/02/yageo_ELCAP.pdf
+Added Member To Class: ClassName=›3 Member=Component C27 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C28 https://www.compel.ru/wordpress/wp-content/uploads/2014/02/yageo_ELCAP.pdf
+Added Member To Class: ClassName=›3 Member=Component C29 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C30 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C31 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C32 https://www.compel.ru/wordpress/wp-content/uploads/2014/02/yageo_ELCAP.pdf
+Added Member To Class: ClassName=›3 Member=Component C33 https://www.compel.ru/wordpress/wp-content/uploads/2014/02/yageo_ELCAP.pdf
+Added Member To Class: ClassName=›3 Member=Component C34 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C35 https://www.compel.ru/wordpress/wp-content/uploads/2014/02/yageo_ELCAP.pdf
+Added Member To Class: ClassName=›3 Member=Component DD1 ADuM1401
+Added Member To Class: ClassName=›3 Member=Component DD2 DRV8874
+Added Member To Class: ClassName=›3 Member=Component DD3 ATmega16-16PU
+Added Member To Class: ClassName=›3 Member=Component DD4 ADuM1301
+Added Member To Class: ClassName=›3 Member=Component DD5 ADM485
+Added Member To Class: ClassName=›3 Member=Component DD6 ADuM1401
+Added Member To Class: ClassName=›3 Member=Component DD7 DRV8874
+Added Member To Class: ClassName=›3 Member=Component DD8 REF198
+Added Member To Class: ClassName=›3 Member=Component DD9 TMR-1-2411SM
+Added Member To Class: ClassName=›3 Member=Component DD10 TMR-1-2411SM
+Added Member To Class: ClassName=›3 Member=Component DD11 TMR-1-2411SM
+Added Member To Class: ClassName=›3 Member=Component L1 Fixed inductor, 10ÏÍ√Ì, ±20%, 0805, 100mA, -55...+125∞C
+Added Member To Class: ClassName=›3 Member=Component R1 120 ŒÏ
+Added Member To Class: ClassName=›3 Member=Component R2 120 ŒÏ
+Added Member To Class: ClassName=›3 Member=Component XP1 PIN_10
+Added Member To Class: ClassName=›3 Member=Component XP2 PLS-2
+Added Member To Class: ClassName=›3 Member=Component XP3 PLS-2
+Added Member To Class: ClassName=›3 Member=Component XTAL1 8Ã√ˆ

@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=NetC20_5 Pin=C21-1
+Removed Pin From Net: NetName=DRV24 Pin=DD1-6
+Removed Pin From Net: NetName=+5B Pin=DD3-10
+Removed Pin From Net: NetName=+5B Pin=DD3-11
+Removed Pin From Net: NetName=NetC2_1 Pin=DD3-12
+Removed Pin From Net: NetName=NetC4_1 Pin=DD3-13
+Removed Pin From Net: NetName=DRV24 Pin=DD3-16
+Removed Pin From Net: NetName=DRV14 Pin=DD3-17
+Removed Pin From Net: NetName=DRV13 Pin=DD3-23
+Removed Pin From Net: NetName=DRV12 Pin=DD3-24
+Removed Pin From Net: NetName=DRV11 Pin=DD3-25
+Removed Pin From Net: NetName=DRV23 Pin=DD3-27
+Removed Pin From Net: NetName=DRV22 Pin=DD3-28
+Removed Pin From Net: NetName=DRV21 Pin=DD3-29
+Removed Pin From Net: NetName=NetC17_1 Pin=DD3-30
+Removed Pin From Net: NetName=+5B Pin=DD3-31
+Removed Pin From Net: NetName=NetC20_5 Pin=DD3-32
+Removed Pin From Net: NetName=POT2 Pin=DD3-39
+Removed Pin From Net: NetName=POT1 Pin=DD3-40
+Removed Pin From Net: NetName=NetC20_5 Pin=DD8-6
+Removed Pin From Net: NetName=NetC20_5 Pin=XP1-9
+Removed Pin From Net: NetName=NetC20_5 Pin=XP1-10
+Change Component Footprint: Designator=DD3 Old Footprint=ATMEGA16_DIP40 New Footprint=ATMEGA16-44A
+Change Component Comment : Designator=DD3 Old Comment=ATmega16-16PU New Comment=ATMEGA16-8UA
+Added Component: Designator=C36(Capacitor_0805)
+Added Component: Designator=C37(Capacitor_0805)
+Added Pin To Net: NetName=DRV14 Pin=C21-1
+Added Pin To Net: NetName=+5B Pin=C36-1
+Added Pin To Net: NetName=+5B Pin=C36-2
+Added Pin To Net: NetName=+5B Pin=C37-1
+Added Pin To Net: NetName=+5B Pin=C37-2
+Added Pin To Net: NetName=DRV14 Pin=DD1-6
+Added Pin To Net: NetName=+5B Pin=DD3-5
+Added Pin To Net: NetName=+5B Pin=DD3-6
+Added Pin To Net: NetName=NetC2_1 Pin=DD3-7
+Added Pin To Net: NetName=NetC4_1 Pin=DD3-8
+Added Pin To Net: NetName=NetC20_5 Pin=DD3-10
+Added Pin To Net: NetName=DRV14 Pin=DD3-11
+Added Pin To Net: NetName=DRV14 Pin=DD3-12
+Added Pin To Net: NetName=DRV24 Pin=DD3-13
+Added Pin To Net: NetName=+5B Pin=DD3-17
+Added Pin To Net: NetName=+5B Pin=DD3-18
+Added Pin To Net: NetName=DRV13 Pin=DD3-20
+Added Pin To Net: NetName=DRV12 Pin=DD3-21
+Added Pin To Net: NetName=DRV11 Pin=DD3-22
+Added Pin To Net: NetName=DRV23 Pin=DD3-24
+Added Pin To Net: NetName=DRV22 Pin=DD3-25
+Added Pin To Net: NetName=DRV21 Pin=DD3-26
+Added Pin To Net: NetName=NetC17_1 Pin=DD3-27
+Added Pin To Net: NetName=+5B Pin=DD3-28
+Added Pin To Net: NetName=DRV14 Pin=DD3-29
+Added Pin To Net: NetName=POT2 Pin=DD3-36
+Added Pin To Net: NetName=POT1 Pin=DD3-37
+Added Pin To Net: NetName=+5B Pin=DD3-38
+Added Pin To Net: NetName=+5B Pin=DD3-39
+Added Pin To Net: NetName=DRV24 Pin=DD4-3
+Added Pin To Net: NetName=NetC20_5 Pin=DD4-4
+Added Pin To Net: NetName=DRV14 Pin=DD8-6
+Added Pin To Net: NetName=NetC4_1 Pin=XTAL1-1
+Change Net Name : Old Net Name=DRV24 New Net Name=NetDD3_13
+Change Net Name : Old Net Name=NetC20_5 New Net Name=NetDD3_10
+Added Pin To Net: NetName=NetDD3_9 Pin=DD3-9
+Added Pin To Net: NetName=NetDD3_9 Pin=DD4-5
+Added Net: Name=NetDD3_9
+Added Member To Class: ClassName=›3 Member=Component C32 https://www.compel.ru/wordpress/wp-content/uploads/2014/02/yageo_ELCAP.pdf
+Added Member To Class: ClassName=›3 Member=Component C36 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C37 0.1ÏÍ‘

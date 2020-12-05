@@ -1,0 +1,268 @@
+Added Component: Designator=C1(Capacitor_0805)
+Added Component: Designator=C2(Capacitor_0805)
+Added Component: Designator=C3(Capacitor_0805)
+Added Component: Designator=C4(Capacitor_0805)
+Added Component: Designator=C5(Capacitor_0805)
+Added Component: Designator=C6(Capacitor_0805)
+Added Component: Designator=C8(Capacitor_0805)
+Added Component: Designator=C9(Capacitor_0805)
+Added Component: Designator=C10(Capacitor_0805)
+Added Component: Designator=C11(Capacitor_0805)
+Added Component: Designator=C13(Capacitor_0805)
+Added Component: Designator=C15(Capacitor_0805)
+Added Component: Designator=C16(Capacitor_0805)
+Added Component: Designator=C17(Capacitor_0805)
+Added Component: Designator=C18(Capacitor_0805)
+Added Component: Designator=C19(Capacitor_0805)
+Added Component: Designator=C20(Capacitor_0805)
+Added Component: Designator=C21(Capacitor_0805)
+Added Component: Designator=C22(Capacitor_0805)
+Added Component: Designator=C23(Capacitor_0805)
+Added Component: Designator=C24(Capacitor_0805)
+Added Component: Designator=C25(Capacitor_0805)
+Added Component: Designator=DD1(DRV8874_TSOP127P600-8N)
+Added Component: Designator=DD2(ATMEGA16_DIP40)
+Added Component: Designator=DD3(ADUM_SOIC)
+Added Component: Designator=DD4(SOIC_N8 (REF198, ADM485))
+Added Component: Designator=DD5(DRV8874_TSOP127P600-8N)
+Added Component: Designator=DD6(SOIC_N8 (REF198, ADM485))
+Added Component: Designator=DD7(TMR1SM_SMD)
+Added Component: Designator=DD8(TDR2SM_SMD)
+Added Component: Designator=DD9(TMR1SM_SMD)
+Added Component: Designator=DD10(ADUM_SOIC)
+Added Component: Designator=DD11(ADUM_SOIC)
+Added Component: Designator=R1(resistor_0805)
+Added Component: Designator=R2(resistor_0805)
+Added Component: Designator=R3(resistor_0805)
+Added Component: Designator=R4(resistor_0805)
+Added Component: Designator=R5(resistor_0805)
+Added Component: Designator=R6(resistor_0805)
+Added Component: Designator=XTAL1(Z_0503)
+Added Pin To Net: NetName=+5B_DRV Pin=C24-2
+Added Pin To Net: NetName=+5B_DRV Pin=C25-1
+Added Pin To Net: NetName=+5B_DRV Pin=DD9-8
+Added Pin To Net: NetName=+5B_DRV Pin=DD10-10
+Added Pin To Net: NetName=+5B_DRV Pin=DD10-16
+Added Pin To Net: NetName=+5B_DRV Pin=DD11-10
+Added Pin To Net: NetName=+5B_DRV Pin=DD11-16
+Added Pin To Net: NetName=+5B_DRV Pin=R5-1
+Added Net: Name=+5B_DRV
+Added Pin To Net: NetName=+5B_RS Pin=C5-2
+Added Pin To Net: NetName=+5B_RS Pin=C20-2
+Added Pin To Net: NetName=+5B_RS Pin=C21-1
+Added Pin To Net: NetName=+5B_RS Pin=DD3-1
+Added Pin To Net: NetName=+5B_RS Pin=DD3-7
+Added Pin To Net: NetName=+5B_RS Pin=DD4-8
+Added Pin To Net: NetName=+5B_RS Pin=DD7-8
+Added Net: Name=+5B_RS
+Added Pin To Net: NetName=+5B_VREF Pin=DD1-5
+Added Pin To Net: NetName=+5B_VREF Pin=DD5-5
+Added Pin To Net: NetName=+5B_VREF Pin=R6-1
+Added Net: Name=+5B_VREF
+Added Pin To Net: NetName=+5B Pin=C1-2
+Added Pin To Net: NetName=+5B Pin=C2-2
+Added Pin To Net: NetName=+5B Pin=C11-1
+Added Pin To Net: NetName=+5B Pin=C11-2
+Added Pin To Net: NetName=+5B Pin=C13-1
+Added Pin To Net: NetName=+5B Pin=C13-2
+Added Pin To Net: NetName=+5B Pin=C15-2
+Added Pin To Net: NetName=+5B Pin=C16-1
+Added Pin To Net: NetName=+5B Pin=C16-2
+Added Pin To Net: NetName=+5B Pin=C17-1
+Added Pin To Net: NetName=+5B Pin=C17-2
+Added Pin To Net: NetName=+5B Pin=C22-1
+Added Pin To Net: NetName=+5B Pin=C22-2
+Added Pin To Net: NetName=+5B Pin=C23-1
+Added Pin To Net: NetName=+5B Pin=C23-2
+Added Pin To Net: NetName=+5B Pin=DD2-10
+Added Pin To Net: NetName=+5B Pin=DD2-11
+Added Pin To Net: NetName=+5B Pin=DD2-30
+Added Pin To Net: NetName=+5B Pin=DD2-31
+Added Pin To Net: NetName=+5B Pin=DD3-9
+Added Pin To Net: NetName=+5B Pin=DD3-10
+Added Pin To Net: NetName=+5B Pin=DD3-15
+Added Pin To Net: NetName=+5B Pin=DD3-16
+Added Pin To Net: NetName=+5B Pin=DD6-2
+Added Pin To Net: NetName=+5B Pin=DD6-4
+Added Pin To Net: NetName=+5B Pin=DD8-8
+Added Pin To Net: NetName=+5B Pin=DD8-9
+Added Pin To Net: NetName=+5B Pin=DD10-1
+Added Pin To Net: NetName=+5B Pin=DD10-2
+Added Pin To Net: NetName=+5B Pin=DD10-7
+Added Pin To Net: NetName=+5B Pin=DD10-8
+Added Pin To Net: NetName=+5B Pin=DD11-1
+Added Pin To Net: NetName=+5B Pin=DD11-2
+Added Pin To Net: NetName=+5B Pin=DD11-7
+Added Pin To Net: NetName=+5B Pin=DD11-8
+Added Net: Name=+5B
+Added Pin To Net: NetName=+27B Pin=C4-2
+Added Pin To Net: NetName=+27B Pin=C6-1
+Added Pin To Net: NetName=+27B Pin=C9-2
+Added Pin To Net: NetName=+27B Pin=C10-1
+Added Pin To Net: NetName=+27B Pin=DD1-11
+Added Pin To Net: NetName=+27B Pin=DD5-11
+Added Net: Name=+27B
+Added Pin To Net: NetName=DRV11 Pin=DD2-25
+Added Pin To Net: NetName=DRV11 Pin=DD11-3
+Added Net: Name=DRV11
+Added Pin To Net: NetName=DRV12 Pin=DD2-24
+Added Pin To Net: NetName=DRV12 Pin=DD11-4
+Added Net: Name=DRV12
+Added Pin To Net: NetName=DRV13 Pin=DD2-23
+Added Pin To Net: NetName=DRV13 Pin=DD11-5
+Added Net: Name=DRV13
+Added Pin To Net: NetName=DRV14 Pin=DD2-22
+Added Pin To Net: NetName=DRV14 Pin=DD11-6
+Added Net: Name=DRV14
+Added Pin To Net: NetName=DRV21 Pin=DD2-29
+Added Pin To Net: NetName=DRV21 Pin=DD10-3
+Added Net: Name=DRV21
+Added Pin To Net: NetName=DRV22 Pin=DD2-28
+Added Pin To Net: NetName=DRV22 Pin=DD10-4
+Added Net: Name=DRV22
+Added Pin To Net: NetName=DRV23 Pin=DD2-27
+Added Pin To Net: NetName=DRV23 Pin=DD10-5
+Added Net: Name=DRV23
+Added Pin To Net: NetName=DRV24 Pin=DD2-26
+Added Pin To Net: NetName=DRV24 Pin=DD10-6
+Added Net: Name=DRV24
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=DD1-9
+Added Pin To Net: NetName=GND Pin=DD5-9
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=DD2-12
+Added Pin To Net: NetName=NetC1_1 Pin=XTAL1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=DD2-13
+Added Pin To Net: NetName=NetC2_1 Pin=XTAL1-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=DD1-14
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=DD1-13
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=DD1-12
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=DD5-14
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=DD5-13
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=DD5-12
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC14_5 Pin=C15-1
+Added Pin To Net: NetName=NetC14_5 Pin=DD2-32
+Added Pin To Net: NetName=NetC14_5 Pin=DD6-6
+Added Net: Name=NetC14_5
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=C19-2
+Added Pin To Net: NetName=NetC18_1 Pin=DD7-1
+Added Pin To Net: NetName=NetC18_1 Pin=DD8-1
+Added Pin To Net: NetName=NetC18_1 Pin=DD9-1
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=C19-1
+Added Pin To Net: NetName=NetC18_2 Pin=DD7-14
+Added Pin To Net: NetName=NetC18_2 Pin=DD8-14
+Added Pin To Net: NetName=NetC18_2 Pin=DD9-14
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetDD1_1 Pin=DD1-1
+Added Pin To Net: NetName=NetDD1_1 Pin=DD10-14
+Added Net: Name=NetDD1_1
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_2 Pin=DD10-13
+Added Net: Name=NetDD1_2
+Added Pin To Net: NetName=NetDD1_3 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1_3 Pin=DD10-12
+Added Net: Name=NetDD1_3
+Added Pin To Net: NetName=NetDD1_4 Pin=DD1-4
+Added Pin To Net: NetName=NetDD1_4 Pin=DD10-11
+Added Net: Name=NetDD1_4
+Added Pin To Net: NetName=NetDD1_6 Pin=DD1-6
+Added Pin To Net: NetName=NetDD1_6 Pin=R1-1
+Added Net: Name=NetDD1_6
+Added Pin To Net: NetName=NetDD1_8 Pin=DD1-8
+Added Net: Name=NetDD1_8
+Added Pin To Net: NetName=NetDD1_10 Pin=DD1-10
+Added Net: Name=NetDD1_10
+Added Pin To Net: NetName=NetDD2_8 Pin=DD2-8
+Added Pin To Net: NetName=NetDD2_8 Pin=DD3-14
+Added Net: Name=NetDD2_8
+Added Pin To Net: NetName=NetDD2_14 Pin=DD2-14
+Added Pin To Net: NetName=NetDD2_14 Pin=DD3-13
+Added Net: Name=NetDD2_14
+Added Pin To Net: NetName=NetDD2_15 Pin=DD2-15
+Added Pin To Net: NetName=NetDD2_15 Pin=DD3-12
+Added Net: Name=NetDD2_15
+Added Pin To Net: NetName=NetDD3_3 Pin=DD3-3
+Added Pin To Net: NetName=NetDD3_3 Pin=DD4-1
+Added Net: Name=NetDD3_3
+Added Pin To Net: NetName=NetDD3_4 Pin=DD3-4
+Added Pin To Net: NetName=NetDD3_4 Pin=DD4-4
+Added Net: Name=NetDD3_4
+Added Pin To Net: NetName=NetDD3_5 Pin=DD3-5
+Added Pin To Net: NetName=NetDD3_5 Pin=DD4-2
+Added Pin To Net: NetName=NetDD3_5 Pin=DD4-3
+Added Net: Name=NetDD3_5
+Added Pin To Net: NetName=NetDD4_6 Pin=DD4-6
+Added Pin To Net: NetName=NetDD4_6 Pin=R2-1
+Added Net: Name=NetDD4_6
+Added Pin To Net: NetName=NetDD4_7 Pin=DD4-7
+Added Pin To Net: NetName=NetDD4_7 Pin=R3-1
+Added Net: Name=NetDD4_7
+Added Pin To Net: NetName=NetDD5_1 Pin=DD5-1
+Added Pin To Net: NetName=NetDD5_1 Pin=DD11-14
+Added Net: Name=NetDD5_1
+Added Pin To Net: NetName=NetDD5_2 Pin=DD5-2
+Added Pin To Net: NetName=NetDD5_2 Pin=DD11-13
+Added Net: Name=NetDD5_2
+Added Pin To Net: NetName=NetDD5_3 Pin=DD5-3
+Added Pin To Net: NetName=NetDD5_3 Pin=DD11-12
+Added Net: Name=NetDD5_3
+Added Pin To Net: NetName=NetDD5_4 Pin=DD5-4
+Added Pin To Net: NetName=NetDD5_4 Pin=DD11-11
+Added Net: Name=NetDD5_4
+Added Pin To Net: NetName=NetDD5_6 Pin=DD5-6
+Added Pin To Net: NetName=NetDD5_6 Pin=R4-1
+Added Net: Name=NetDD5_6
+Added Pin To Net: NetName=NetDD5_8 Pin=DD5-8
+Added Net: Name=NetDD5_8
+Added Pin To Net: NetName=NetDD5_10 Pin=DD5-10
+Added Net: Name=NetDD5_10
+Added Net: Name=NetR2_0
+Added Net: Name=NetR3_0
+Added Pin To Net: NetName=POT1 Pin=DD2-40
+Added Net: Name=POT1
+Added Pin To Net: NetName=POT2 Pin=DD2-39
+Added Net: Name=POT2
+Added Pin To Net: NetName=ќбщ_DRV Pin=C24-1
+Added Pin To Net: NetName=ќбщ_DRV Pin=C25-2
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD1-7
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD1-15
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD1-16
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD5-7
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD5-15
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD5-16
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD9-9
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD10-9
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD10-15
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD11-9
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD11-15
+Added Net: Name=ќбщ_DRV
+Added Pin To Net: NetName=ќбщ_RS Pin=C5-1
+Added Pin To Net: NetName=ќбщ_RS Pin=C20-1
+Added Pin To Net: NetName=ќбщ_RS Pin=C21-2
+Added Pin To Net: NetName=ќбщ_RS Pin=DD3-2
+Added Pin To Net: NetName=ќбщ_RS Pin=DD3-8
+Added Pin To Net: NetName=ќбщ_RS Pin=DD4-5
+Added Pin To Net: NetName=ќбщ_RS Pin=DD7-9
+Added Net: Name=ќбщ_RS
+Added Class: Name=Ё3
+Added Room: Name=Ё3
