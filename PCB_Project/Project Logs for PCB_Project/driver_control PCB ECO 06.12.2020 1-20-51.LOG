@@ -1,0 +1,3 @@
+Change Component Comment : Designator=XTAL1 Old Comment=8ÌÃö New Comment=8Ìãö
+Added Pin To Net: NetName=+5B Pin=DD11-3
+Added Pin To Net: NetName=NetC14_1 Pin=XTAL1-2
