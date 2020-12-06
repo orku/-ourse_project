@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=XP5 NewDesignator=XP6
+Added Component: Designator=XP5(CON: IDC-6MS)
+Add component (AddParameter): Name = "CommentText"; Value = ""Πΰηϊεμ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "6pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 6pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5B Pin=XP5-2
+Added Pin To Net: NetName=+5B Pin=XP5-6
+Change Net Name : Old Net Name=NetC14_1 New Net Name=XT1
+Change Net Name : Old Net Name=NetC16_1 New Net Name=XT2
+Change Net Name : Old Net Name=NetDD5_9 New Net Name=RXD
+Change Net Name : Old Net Name=NetDD5_10 New Net Name=TXD
+Change Net Name : Old Net Name=NetDD5_13 New Net Name=ENB
+Added Pin To Net: NetName=MISO Pin=DD5-2
+Added Pin To Net: NetName=MISO Pin=XP5-1
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=DD5-1
+Added Pin To Net: NetName=MOSI Pin=XP5-4
+Added Net: Name=MOSI
+Added Pin To Net: NetName=RST Pin=DD5-4
+Added Pin To Net: NetName=RST Pin=XP5-5
+Added Net: Name=RST
+Added Pin To Net: NetName=SCK Pin=DD5-3
+Added Pin To Net: NetName=SCK Pin=XP5-3
+Added Net: Name=SCK
+Added Member To Class: ClassName=έ3 Member=Component XP6 PLS-2
