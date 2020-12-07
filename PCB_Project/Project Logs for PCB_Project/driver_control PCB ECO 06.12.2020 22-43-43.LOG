@@ -1,0 +1,10 @@
+Added Component: Designator=C38(Capacitor_tant_0805)
+Added Component: Designator=C39(Capacitor_0805)
+Added Pin To Net: NetName=AREF Pin=C38-1
+Added Pin To Net: NetName=+5B Pin=C38-2
+Added Pin To Net: NetName=AREF Pin=C39-1
+Added Pin To Net: NetName=+5B Pin=C39-2
+Added Member To Class: ClassName=›3 Member=Component C15 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C38 1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component C39 0.1ÏÍ‘
+Added Member To Class: ClassName=›3 Member=Component XP5 Connector, 6pin, 2.54mm, 500VAC, 3A
