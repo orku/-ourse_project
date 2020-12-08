@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+5B Pin=C13-2
+Removed Pin From Net: NetName=+5B Pin=C22-2
+Removed Pin From Net: NetName=+5B Pin=DD4-9
+Removed Pin From Net: NetName=+5B Pin=DD4-15
+Removed Pin From Net: NetName=+5B Pin=DD9-9
+Removed Pin From Net: NetName=+5B Pin=DD9-15
+Added Pin To Net: NetName=ќбщ_DRV Pin=C13-2
+Added Pin To Net: NetName=ќбщ_DRV Pin=C22-2
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD4-9
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD4-15
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD9-9
+Added Pin To Net: NetName=ќбщ_DRV Pin=DD9-15
