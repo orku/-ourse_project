@@ -1,0 +1,7 @@
+Change Component Comment : Designator=XTAL1 Old Comment=8Ìãö New Comment=11.0592Ìãö
+Change Component Comment : Designator=C14 Old Comment=22ïêÔ New Comment=8ïêÔ
+Change Component Comment : Designator=C16 Old Comment=22ïêÔ New Comment=8ïêÔ
+Change Component Designator: OldDesignator=XTAL1 NewDesignator=Z
+Added Component: Designator=C3(CAPAE7666X61M)
+Added Component: Designator=C7(CAPAE7666X61M)
+Added Component: Designator=C11(CAPAE7666X61M)

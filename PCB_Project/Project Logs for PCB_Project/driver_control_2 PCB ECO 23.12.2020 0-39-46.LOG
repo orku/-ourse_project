@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAPAE4643X46M New Footprint=CAPAE7666X61M
+Change Component Footprint: Designator=C7 Old Footprint=CAPAE4643X46M New Footprint=CAPAE7666X61M
+Change Component Footprint: Designator=C11 Old Footprint=CAPAE4643X46M New Footprint=CAPAE7666X61M
+Change Component Comment : Designator=XTAL1 Old Comment=8Ã„ˆ New Comment=11.0592Ã„ˆ
+Change Component Comment : Designator=C14 Old Comment=22ÔÍ‘ New Comment=8ÔÍ‘
+Change Component Comment : Designator=C16 Old Comment=22ÔÍ‘ New Comment=8ÔÍ‘
+Change Component Designator: OldDesignator=XTAL1 NewDesignator=Z
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPAE4643X46M"; UniqueID = "\OXMJZQWE" ("\OXMJZQWE")
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAPAE4643X46M"; UniqueID = "\FYWYLNRP" ("\FYWYLNRP")
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAPAE4643X46M"; UniqueID = "\SCZEJSKC" ("\SCZEJSKC")

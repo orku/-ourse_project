@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=XP3 Old Footprint=CON: PLS-2 New Footprint=15EDGVC-3.5-02
+Change Component Footprint: Designator=XP4 Old Footprint=CON: PLS-2 New Footprint=15EDGVC-3.5-02
+Change Component Comment : Designator=XP3 Old Comment=PLS-2 New Comment=15EDGVC-3.5-02
+Change Component Comment : Designator=XP4 Old Comment=PLS-2 New Comment=15EDGVC-3.5-02
